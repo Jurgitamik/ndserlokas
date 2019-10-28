@@ -14,9 +14,6 @@ body * {
     background-color: rgb(184, 184, 184);
     box-shadow: 10px 10px 8px 10px #888888;
 }   
-div {
-    /* border: solid; */
-}
 .kaire{
     display: inline-block;
     width: 45%;
